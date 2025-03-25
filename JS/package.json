@@ -1,0 +1,22 @@
+{
+  "name": "matricesmultid",
+  "version": "1.0.0",
+  "main": "sistema_telefonos_personas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LusCard/matrix_multi_d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LusCard/matrix_multi_d/issues"
+  },
+  "homepage": "https://github.com/LusCard/matrix_multi_d#readme",
+  "description": "",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
